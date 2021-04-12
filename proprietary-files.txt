@@ -404,6 +404,24 @@ vendor/lib64/libMegviiFacepp-0.5.2.so
 vendor/lib/android.hardware.camera.provider@2.4-legacy.so
 vendor/lib64/android.hardware.camera.provider@2.4-legacy.so
 
+# Camera sensors - excalibur
+vendor/lib/camera/com.qti.sensormodule.ofilm_s5kgw1.bin
+vendor/lib/camera/com.qti.sensormodule.ofilm_s5kgw1_mirrorflip.bin
+vendor/lib/camera/com.qti.sensormodule.sunny_s5kgw1.bin
+vendor/lib/camera/com.qti.sensormodule.sunny_s5kgw1_mirrorflip.bin
+vendor/lib/camera/com.qti.tuned.sunny_gc02m1.bin
+vendor/lib/camera/com.qti.tuned.sunny_s5kgw1.bin
+vendor/lib64/camera/com.qti.sensormodule.ofilm_s5kgw1.bin
+vendor/lib64/camera/com.qti.sensormodule.ofilm_s5kgw1_mirrorflip.bin
+vendor/lib64/camera/com.qti.sensormodule.sunny_s5kgw1.bin
+vendor/lib64/camera/com.qti.sensormodule.sunny_s5kgw1_mirrorflip.bin
+vendor/lib64/camera/com.qti.tuned.sunny_gc02m1.bin
+vendor/lib64/camera/com.qti.tuned.sunny_s5kgw1.bin
+vendor/lib/camera/com.qti.sensormodule.sunny_ov32a1q.bin
+vendor/lib/camera/com.qti.tuned.sunny_ov32a1q.bin
+vendor/lib64/camera/com.qti.sensormodule.sunny_ov32a1q.bin
+vendor/lib64/camera/com.qti.tuned.sunny_ov32a1q.bin
+
 # CDSP
 vendor/bin/cdsprpcd
 vendor/etc/init/vendor.qti.cdsprpc-service.rc
